@@ -5,7 +5,6 @@ import Karakter from "./Karakter";
 
 const Karakterler = (props) => {
   const { data } = props;
-  console.log("ŞUUU", data);
 
   const Content = styled.div`
     display: flex;
